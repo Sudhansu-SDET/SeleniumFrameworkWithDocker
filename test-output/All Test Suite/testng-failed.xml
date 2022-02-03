@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
+  <test thread-count="5" name="C:/Users/sudha/IdeaProjects/SeleniumAutomationFramework(failed)" parallel="methods">
+    <classes>
+      <class name="com.tmb.tests.HomepageTests">
+        <methods>
+          <include name="test2"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.tmb.tests.HomepageTests -->
+    </classes>
+  </test> <!-- C:/Users/sudha/IdeaProjects/SeleniumAutomationFramework(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01ae86ae-8546-4bb6-9e09-bf51b81d6418" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="moduleName" value="SeleniumAutomationFramework" />
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="20xqMbtLPGCHkvharOPqqbYKcMU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowAnt.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/Executables" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sudha\IdeaProjects\SeleniumAutomationFramework\src\test\resources\Executables" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.HomepageTests.test2">
+    <configuration name="C:/Users/sudha/IdeaProjects/SeleniumAutomationFramework/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomationFramework" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomepageTests.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tmb.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tmb.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.tmb.tests.HomepageTests" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomepageTests.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tmb.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tmb.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.tmb.tests.HomepageTests" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginpageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tmb.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tmb.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.tmb.tests.LoginpageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginpageTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tmb.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tmb.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.tmb.tests.LoginpageTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/sudha/IdeaProjects/SeleniumAutomationFramework/testng.xml" />
+      <item itemvalue="TestNG.HomepageTests.test3" />
+      <item itemvalue="TestNG.LoginpageTest.test1" />
+      <item itemvalue="TestNG.LoginpageTest" />
+      <item itemvalue="TestNG.HomepageTests.test2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HomepageTests.test2" />
+        <item itemvalue="TestNG.C:/Users/sudha/IdeaProjects/SeleniumAutomationFramework/testng.xml" />
+        <item itemvalue="TestNG.LoginpageTest" />
+        <item itemvalue="TestNG.HomepageTests.test3" />
+        <item itemvalue="TestNG.LoginpageTest.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01ae86ae-8546-4bb6-9e09-bf51b81d6418" name="Default Changelist" comment="" />
+      <created>1636996540026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636996540026</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1637003101409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1637003101409" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1643878602171">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1643878602171" />
+    <state x="507" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1637753219005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="507" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1637753219005" />
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1643876992938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1643876992938" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1637704689952">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1637704689952" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1643878833216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1643878833216" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1643878833216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1643878833216" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1643878833215">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1643878833215" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1643878833216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1643878833216" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1643878833216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1643878833216" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1643878833216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1643878833216" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1643878833216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1643878833216" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1643878833216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1643878833216" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1637705049325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1637705049325" />
+    <state x="473" y="168" width="590" height="488" key="find.popup" timestamp="1643877018706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="168" width="590" height="488" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1643877018706" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1637713922084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1637713922084" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/tmb/tests/BaseTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/tmb/tests/LoginpageTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/tmb/tests/HomepageTests.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/tmb/tests/HomepageTests.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="driver" />
+        <watch expression="eachLink.getText()" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
