@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="All Test Suite">
-    <test thread-count="2" parallel="methods" verbose="2" preserve-order="true" name="C:/Users/sudha/IdeaProjects/SeleniumAutomationFramework">
+<suite name="All Test Suite" data-provider-thread-count="4">
+    <listeners>
+        <listener class-name="com.tmb.listeners.Listener"></listener>
+    </listeners>
+    <test thread-count="1" parallel="methods" verbose="2" preserve-order="true" name="C:/Users/sudha/IdeaProjects/SeleniumAutomationFramework">
         <classes>
-            <class name="com.tmb.tests.HomepageTests"></class>
-           <!--<class name="com.tmb.tests.LoginpageTest"></class> -->
+
+            <class name="com.tmb.tests.OrangeHRMTests"></class>
+
+            <!--<class name="com.tmb.tests.HomepageTests"></class>
+           <class name="com.tmb.tests.LoginpageTest"></class>-->
         </classes>
     </test>
 </suite>
