@@ -1,183 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01ae86ae-8546-4bb6-9e09-bf51b81d6418" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/sudha.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c74ae21286ac1ac9956572f4d16ffe73f66db4d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/2438c8d2448af990c6634fc371004a2132225614" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d49df91cb7b29c5244ad66c7b3e17a78961204e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e5e4e71fb7412409aeadec740aff2a0df29ba78" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/492d05ff744abf1c304381fec03f39c7ed1a16d2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82353cb874f55f5b139cf1875bf31d90bd1b4336" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a02a669346a62edcb53e8708c0ca2908f64f3d82" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce7c0b9af75493788c6921a003077b67bba621f4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db5239196748fa6b0f4b706d7d5c07836f8751c9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/ebee9e7cb1c9f4c930255e97610d0917fb75eab7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fddb7804a849c8e1f1d20c8c7f701d50ad8749aa" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allclasses-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allclasses-noframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/constants/FrameworkConstants.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/constants/class-use/FrameworkConstants.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/constants/package-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/constants/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/constants/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/constants/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/driver/Driver.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/driver/DriverManager.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/driver/class-use/Driver.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/driver/class-use/DriverManager.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/driver/package-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/driver/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/driver/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/driver/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/listeners/Listener.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/listeners/class-use/Listener.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/listeners/package-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/listeners/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/listeners/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/listeners/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/pages/BasePage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/pages/OrangeHRMHomePage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/pages/OrangeHRMLoginPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/pages/class-use/BasePage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/pages/class-use/OrangeHRMHomePage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/pages/class-use/OrangeHRMLoginPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/pages/package-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/pages/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/pages/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/pages/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/reports/ExtentLogger.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/reports/ExtentManager.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/reports/ExtentReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/reports/class-use/ExtentLogger.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/reports/class-use/ExtentManager.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/reports/class-use/ExtentReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/reports/package-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/reports/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/reports/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/reports/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/tests/BaseTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/tests/HomepageTests.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/tests/LoginpageTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/tests/OrangeHRMTests.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/tests/class-use/BaseTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/tests/class-use/HomepageTests.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/tests/class-use/LoginpageTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/tests/class-use/OrangeHRMTests.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/tests/package-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/tests/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/tests/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/tests/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/utils/DataProviderUtils.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/utils/PropertyUtils.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/utils/class-use/DataProviderUtils.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/utils/class-use/PropertyUtils.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/utils/package-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/utils/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/utils/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tmb/utils/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constant-values.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deprecated-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/help-doc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-12.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-13.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-14.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-15.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-16.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-files/index-9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/overview-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/overview-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/overview-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tmb/annotations/CustomAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tmb/constants/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tmb/listeners/Listener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tmb/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tmb/pages/OrangeHRMHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tmb/pages/OrangeHRMLoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tmb/reports/ExtentLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tmb/reports/ExtentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tmb/reports/ExtentReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tmb/utils/DataProviderUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tmb/tests/OrangeHRMTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Archieve/Executables/DriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Archieve/Executables/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/excel/TestData.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tmb/annotations/CustomAnnotation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tmb/listeners/Listener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tmb/pages/BasePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tmb/pages/OrangeHRMHomePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tmb/pages/OrangeHRMLoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tmb/reports/ExtentLogger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tmb/reports/ExtentManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tmb/reports/ExtentReport.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tmb/utils/DataProviderUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tmb/utils/PropertyUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Archieve/Executables/DriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Archieve/Executables/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/tmb/tests/OrangeHRMTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/excel/TestData.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.tmb.tests.OrangeHRMTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="01ae86ae-8546-4bb6-9e09-bf51b81d6418" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tmb/constants/FrameworkConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tmb/constants/FrameworkConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tmb/driver/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tmb/driver/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tmb/driver/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tmb/driver/DriverManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tmb/utils/ReadPropertyFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tmb/utils/PropertyUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/tmb/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tmb/tests/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/tmb/tests/HomepageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tmb/tests/HomepageTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/tmb/tests/LoginpageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tmb/tests/LoginpageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/Archieve/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Archieve/chromedriver_v98.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/Executables/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Archieve/chromedriver_v99.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tmb/constants/FrameworkConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tmb/constants/FrameworkConstants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tmb/driver/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tmb/driver/Driver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tmb/driver/DriverManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tmb/driver/DriverManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tmb/utils/ReadPropertyFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Archieve/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Archieve/chromedriver_v98.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Executables/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Archieve/chromedriver_v99.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/tmb/tests/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/tmb/tests/BaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/tmb/tests/HomepageTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/tmb/tests/HomepageTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/tmb/tests/LoginpageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/tmb/tests/LoginpageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/config/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/C__Users_sudha_IdeaProjects_SeleniumAutomationFramework.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/C__Users_sudha_IdeaProjects_SeleniumAutomationFramework.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/C__Users_sudha_IdeaProjects_SeleniumAutomationFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/C__Users_sudha_IdeaProjects_SeleniumAutomationFramework.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.tmb.tests.HomepageTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.tmb.tests.HomepageTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/testng.xml.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-reports.css" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-reports.js" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,7 +51,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="ToolWindowAnt.ShowToolbar" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/tmb/pages" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/Executables" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -243,7 +69,7 @@
       <recent name="com.tmb.pages" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/sudha/IdeaProjects/SeleniumAutomationFramework/testng.xml">
+  <component name="RunManager" selected="TestNG.OrangeHRMTests.logInLogOutTest">
     <configuration name="C:/Users/sudha/IdeaProjects/SeleniumAutomationFramework/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumAutomationFramework" />
       <useClassPathOnly />
@@ -343,11 +169,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.OrangeHRMTests.logInLogOutTest" />
         <item itemvalue="TestNG.C:/Users/sudha/IdeaProjects/SeleniumAutomationFramework/testng.xml" />
         <item itemvalue="TestNG.OrangeHRMTests.DemoTestEdge" />
         <item itemvalue="TestNG.OrangeHRMTests" />
         <item itemvalue="TestNG.HomepageTests.test2" />
-        <item itemvalue="TestNG.OrangeHRMTests.logInLogOutTest" />
       </list>
     </recent_temporary>
   </component>
@@ -362,6 +188,14 @@
       <option name="presentableId" value="Default" />
       <updated>1636996540026</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1650400706591</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650400706591</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -369,50 +203,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1643878602171">
+    <state x="325" y="11" key="CommitChangelistDialog2" timestamp="1650400701746">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1643878602171" />
-    <state x="407" y="106" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1650138627143">
+    <state x="325" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1650400701746" />
+    <state x="548" y="170" key="FileChooserDialogImpl" timestamp="1650401748339">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="407" y="106" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.824@0.0.1536.824" timestamp="1650138627143" />
-    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1649677010691">
+    <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1650401748339" />
+    <state width="1537" height="202" key="GridCell.Tab.0.bottom" timestamp="1652593207904">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1649677010691" />
-    <state x="531" y="170" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1650138145248">
+    <state width="1537" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1652593207904" />
+    <state width="1537" height="202" key="GridCell.Tab.0.center" timestamp="1652593207904">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="531" y="170" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1650138145248" />
-    <state x="325" y="11" key="CommitChangelistDialog2" timestamp="1650400566494">
+    <state width="1537" height="202" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1652593207904" />
+    <state width="1537" height="202" key="GridCell.Tab.0.left" timestamp="1652593207904">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="325" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1650400566494" />
-    <state width="398" height="466" key="DebuggerActiveHint" timestamp="1649622411652">
+    <state width="1537" height="202" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1652593207904" />
+    <state width="1537" height="202" key="GridCell.Tab.0.right" timestamp="1652593207904">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="398" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1649622411652" />
-    <state x="548" y="170" key="FileChooserDialogImpl" timestamp="1650398352838">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1650398352838" />
-    <state width="1537" height="202" key="GridCell.Tab.0.bottom" timestamp="1650398869761">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1537" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1650398869761" />
-    <state width="1537" height="202" key="GridCell.Tab.0.center" timestamp="1650398869761">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1537" height="202" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1650398869761" />
-    <state width="1537" height="202" key="GridCell.Tab.0.left" timestamp="1650398869761">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1537" height="202" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1650398869761" />
-    <state width="1537" height="202" key="GridCell.Tab.0.right" timestamp="1650398869761">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1537" height="202" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1650398869761" />
+    <state width="1537" height="202" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1652593207904" />
     <state width="1537" height="216" key="GridCell.Tab.1.bottom" timestamp="1650378062557">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -433,30 +247,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1650398605018" />
-    <state x="583" y="193" key="chooseDestDirectoryDialog" timestamp="1645019309895">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1658803982850">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="583" y="193" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1645019309895" />
-    <state x="473" y="168" width="590" height="488" key="find.popup" timestamp="1649619660662">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1658803982850" />
+    <state x="209" y="117" key="new project wizard" timestamp="1656065955243">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="473" y="168" width="590" height="488" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1649619660662" />
-    <state x="209" y="117" key="new project wizard" timestamp="1650398792117">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="209" y="117" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1650398792117" />
+    <state x="209" y="117" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1656065955243" />
     <state x="477" y="47" key="refactoring.ChangeSignatureDialog" timestamp="1650314312762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="477" y="47" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1650314312762" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1650136939543">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1650136939543" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1650137562290">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1650137562290" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -545,16 +347,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/tmb/driver/DriverFactory.java</url>
           <line>36</line>
           <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/tmb/tests/OrangeHRMTests.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/tmb/tests/OrangeHRMTests.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/tmb/tests/OrangeHRMTests.java</url>
